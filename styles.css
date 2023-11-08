@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Estilos para las tarjetas expandidas */
+.expandida {
+    height: auto;
+    max-height: none;
+}
